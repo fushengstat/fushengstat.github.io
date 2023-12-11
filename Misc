@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="bookmark" href="favicon.ico" type="image/x-icon" />
+<!-- <title>Fu, Sheng(付盛)</title> -->
+<title>Fu, Sheng</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+  <div class="menu-category">Home</div>
+  <div class="menu-item"><a href="index.html" class="current">About Me</a></div>
+  <div class="menu-item"><a href="research.html">Research</a></div>
+  <div class="menu-item"><a href="presentations.html">Presentation</a></div>
+  <div class="menu-item"><a href="experience.html">Experience</a></div>
+  <div class="menu-item"><a href="news.html">News</a></div>
+  <!-- <div class="menu-item"><a href="https://github.com/fushengstat/" target="_blank">GitHub</a></div> -->
+  <!-- <div class="menu-item"><a href="https://www.linkedin.com/in/sheng-fu/" target="_blank">LinkedIn</a></div> -->
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Dr. Sheng Fu (<font face="楷体">付盛</font>) @ NIH </h1> 
+
+</div>
+<table class="imgtable"><tr><td>
+<!--<a href="https://fushengstat.github.io/"><img src="photos/bio.png" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>-->
+<a href="https://fusheng.netlify.app/"><img src="photos/bio.jpg" alt="alt text" width="120px" height=180px" /></a>&nbsp;</td>  
+<td align="left"><p>
+<br /><br />
+Postdoctoral Fellow <br />
+Biostatistics Branch, Division of Cancer Epidemiology and Genetics, <br />
+National Cancer Institute, <a href="https://www.nih.gov/" target="_blank">National Institutes of Health</a> <br />
+9609 Medical Center Drive, Bethesda, Maryland 20892, USA <br />
+E-mail: <a href="mailto:fusheng1007@gmail.com">fusheng1007@gmail.com</a> or <a href="mailto:fu.sheng@nih.gov">fu.sheng@nih.gov</a><br />
+Links: [<a href="https://github.com/fushengstat/" target="_blank">GitHub</a>], [<a href="https://www.linkedin.com/in/sheng-fu/" target="_blank">LinkedIn</a>]
+</p>
+</td></tr></table>
+<h2>Biography</h2>
+<p>Welcome to my homepage! I am a Postdoctoral Fellow at the <a href="https://www.nih.gov/" target="_blank">National Institutes of Health</a>. 
+I received my Ph.D. degree from the <a href="https://english.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a>,
+where I also completed a year of joint Ph.D. training at the <a href="https://www.unc.edu/" target="_blank"> University of North Carolina at Chapel Hill</a>.
+Following my Ph.D., I served as a Research Fellow at the <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>.
+<font color="red">If you're interested in my research and open to potential collaborations in statistics and its applications, please don't hesitate to contact me by email.</font>
+
+<p> <font color="#bf2ecc">🔥<b>2023.12</b>🔥 I will be attending the <a href="https://nips.cc/" target="_blank">NeurIPS 2023</a> in New Orleans, LA.</font></p>
+<!-- <p> <font color="#bf2ecc">🔥<b>2023.10</b>🔥 I will be attending the <a href="https://www.ashg.org/meetings/2023meeting/" target="_blank">ASHG 2023 Annual Meeting</a> in Washington, DC.</font></p> -->
+<!-- <p> <font color="#bf2ecc">🔥<b>2023.07</b>🔥 I am honored to be a recipient of the Fellows Award for Research Excellence (FARE) at the NIH. </font></p> -->
+<!-- <p> <font color="#bf2ecc">🔥<b>2023.06</b>🔥 My paper has been accepted by <i>PLOS Computational Biology</i>. </font></p> -->
+<!-- <p> <font color="#bf2ecc">🔥<b>2023.06</b>🔥 I will be attending the <a href="https://symposium2023.icsa.org/" target="_blank">ICSA 2023 Applied Statistics Symposium</a> in Ann Arbor, Michigan. </font></p>   -->
+<!--- <p> <font color="red"  size="3.5"> [<b>News</b>] I have a new paper published on <a href="https://doi.org/10.1093/bioinformatics/btad156" target="_blank"> Bioinformatics.</a></font> 🎉 </p>-->
+<!----  <h2> <font color="red"> News </font> </h2>!---> 
+
+  
+<h2>Research Interests</h2>
+<ul>
+<li><p><b>Statistical Machine Learning</b>: classification/regression, high-dimensional statistics, kernel method, statistical learning theory, robust statistics.</p></li>
+<li><p><b>Biostatistics</b>: case-control study, epidemiology, meta-analysis, integration analysis, summary statistics. </p></li>
+<li><p><b>Genetics</b>: genome-wide association study, subtype heterogeneity analysis.</p></li>
+<li><p><b>Optimization</b>: algorithm, (non-)convex optimization, online learning, robust optimization.</p></li>
+</ul>
+</td>
+</tr>
+</table>
+
+
+<table align="center" valign="center" border="none" border-collapse="collapse" style="border: 2px solid #ffffff;"> <tr>
+<td> <font face="楷体" size=4.5>未离海底千山黑，<br />才到天中万国明。</font> <br /> </td>
+<td> <img src="https://www.easycounter.com/counter.php?braveman2012" border="0" alt="Web Counter"> <br /> Since May 1, 2023 </td>
+</tr> </table>
+<!--<td id="profileviews"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffushengstat.github.io&count_bg=%23D2DDCA&title_bg=%23555555&icon=obsstudio.svg&icon_color=%2311F264&title=profile+views&edge_flat=false"/></a></td>-->
+<!--  height="14" <a href="https://www.easycounter.com/">  &#160 -->
+<!-- <a href="https://info.flagcounter.com/1UcU"><img src="https://s01.flagcounter.com/count2/1UcU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
+<!--  <p> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffushengstat.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=oneplus.svg&icon_color=%23B75E5E&title=hits&edge_flat=false"/></a> </p> -->
+</body>
+</html>
